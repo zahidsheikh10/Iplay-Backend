@@ -9,6 +9,7 @@
   "author": "Zahid Hussain",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "resend": "^4.0.1"
   }
 }
